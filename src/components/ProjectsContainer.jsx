@@ -4,7 +4,7 @@ const ProjectsContainer = () => {
   return (
     <section className="projects-container">
       <h2>Projetos</h2>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe maxime beatae natus, delectus accusamus a. Velit quas quaerat itaque, expedita fugiat dolore dolor, accusamus voluptatem explicabo molestias ad consequatur repudiandae.</p>
+      <p>Esse site foi Desenvolvido em React JS com Sass para mostrar um pouco dos meus conhecimentos e porque o currículo de um Desenvolvedor pode ser mais que um simples arquivo no Word ou PDF. No link abaixo você poderá conferir alguns projetos que eu já fiz.</p>
       <a href="#" className="btn">
         Ver Projetos
       </a>
